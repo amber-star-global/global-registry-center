@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: registry-center
+  profiles:
+    active: dev
+  cloud:
+    config:
+      label: master
+      discovery:
+        enabled: false
+        service-id: config-center
+      fail-fast: true
+      username: admin
+      password: as123456
+
+#management:
+#  security:
+#    enabled: false
