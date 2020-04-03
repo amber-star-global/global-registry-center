@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.amber.star</groupId>
-    <artifactId>global-refistry-center</artifactId>
+    <artifactId>global-registry-center</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.0.Config</version>
+    <version>1.0.0.Registry</version>
     <modules>
         <module>global-registry-business</module>
     </modules>
