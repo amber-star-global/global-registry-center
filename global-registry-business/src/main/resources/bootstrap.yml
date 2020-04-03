@@ -16,3 +16,5 @@ spring:
 #management:
 #  security:
 #    enabled: false
+
+# 启动参数: spring.profiles.active=选择拉取配置文件; spring.cloud.config.uri=注册中心地址
