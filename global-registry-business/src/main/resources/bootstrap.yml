@@ -1,8 +1,6 @@
 spring:
   application:
     name: registry-center
-  profiles:
-    active: dev
   cloud:
     config:
       label: master
